@@ -1,7 +1,7 @@
 # General
-SiteName = "Lamer News"
+SiteName = "Swift News"
 SiteUrl = "http://swiftnews.herokuapp.com"
-SiteDescription = "Programming News"
+SiteDescription = "Dedicated to all things Swift for iOS & OSX"
 
 # Redis config
 RedisURL = "redis://redistogo:42664d58f63d4dc309d4e4658e4403ab@greeneye.redistogo.com:9233/"
