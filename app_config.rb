@@ -4,7 +4,7 @@ SiteUrl = "http://swiftnews.herokuapp.com"
 SiteDescription = "Programming News"
 
 # Redis config
-RedisURL = "redis://127.0.0.1:6379"
+RedisURL = "redis://redistogo:42664d58f63d4dc309d4e4658e4403ab@greeneye.redistogo.com:9233/"
 
 # Security
 PBKDF2Iterations = 1000 # Set this to 5000 to improve security. But it is slow.
