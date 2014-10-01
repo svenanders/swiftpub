@@ -1,7 +1,7 @@
 About
 ===
-
-Lamer news is an implementation of a Reddit / Hacker News style news web site
+Swift news
+is a for of Lamers news, which is an implementation of a Reddit / Hacker News style news web site
 written using Ruby, Sinatra, Redis and jQuery.
 
 The goal is to have a system that is very simple to understand and modify and
