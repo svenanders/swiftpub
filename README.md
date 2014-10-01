@@ -1,8 +1,7 @@
 About
 ===
-Swift news
-is a for of Lamers news, which is an implementation of a Reddit / Hacker News style news web site
-written using Ruby, Sinatra, Redis and jQuery.
+**Swiftpub** is a fork Lamers news, which is an implementation of a Reddit / Hacker 
+News style news web site written using Ruby, Sinatra, Redis and jQuery.
 
 The goal is to have a system that is very simple to understand and modify and
 that is able to handle a very high load using a small virtual server, ensuring

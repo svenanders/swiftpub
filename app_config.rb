@@ -1,6 +1,6 @@
 # General
-SiteName = "Swift News"
-SiteUrl = "http://swiftnews.herokuapp.com"
+SiteName = "Swift Pub"
+SiteUrl = "http://swiftpub.herokuapp.com"
 SiteDescription = "Dedicated to all things Swift for iOS & OSX"
 
 # Redis config
