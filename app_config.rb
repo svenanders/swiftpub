@@ -1,6 +1,6 @@
 # General
 SiteName = "Lamer News"
-SiteUrl = "http://lamernews.com"
+SiteUrl = "http://swiftnews.herokuapp.com"
 SiteDescription = "Programming News"
 
 # Redis config
